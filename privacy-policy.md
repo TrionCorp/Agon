@@ -34,8 +34,28 @@ We want to inform users of this Service that these third parties have access to 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+### Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+The right to access, update or to delete the information we have on you. Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you. Also please read the Delete Account section on this page for more info.
+
+The right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete.
+
+The right to object. You have the right to object to our processing of your Personal Data.
+
+The right of restriction. You have the right to request that we restrict the processing of your personal information.
+
+The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
+
+The right to withdraw consent. You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
