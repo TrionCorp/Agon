@@ -31,6 +31,39 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
+### Usage Data
+We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").
+
+This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.
+
+We use the collected data for various purposes:
+
+To provide and maintain our Service
+To notify you about changes to our Service
+To allow you to participate in interactive features of our Service when you choose to do so
+To provide customer support
+To gather analysis or valuable information so that we can improve our Service
+To monitor the usage of our Service
+To detect, prevent and address technical issues
+To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+
+### Child Safety
+We take your child's safety very seriously. We do our best to comply with your country's children protection acts and policies, including Children's Online Privacy Protection Act (COPPA) and GDPR. We ask the User's year or date of birth to determine if they are underage. If so, we:
+
+Block links to external websites that are not suitable for underage users
+Limit collection of children's personal data
+Limit social features that might contain user-generated content
+Only show child-safe advertisements 
+
+### Transfer of Data
+Your information, including Personal Data, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
@@ -57,6 +90,66 @@ Please note that we may ask you to verify your identity before responding to suc
 
 You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
 
+### Service Providers
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+Analytics
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+<ul>
+  <li>
+Google Analytics
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
+  </li>
+  <li>
+Firebase
+
+Firebase is analytics service provided by Google Inc.
+
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: http://www.google.com/intl/en/policies/privacy/
+
+We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245. For more information on what type of information Firebase collects, please visit please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
+  </li>
+  <li>
+Clicky
+
+Clicky is a web analytics service. Read the Privacy Policy for Clicky here: https://clicky.com/terms
+  </li></ul>
+  
+### Advertising
+We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
+
+<ul>
+  <li>
+AdMob by Google
+
+AdMob by Google is provided by Google Inc.
+
+You can opt-out from AdMob by Google service by following the instructions described by Google: https://support.google.com/ads/answer/2662922?hl=en
+
+For more information on how Google uses the collected information, please visit the "How Google uses data when you use our partners' sites or app" page: http://www.google.com/policies/privacy/partners/ or visit the Privacy Policy of Google: http://www.google.com/policies/privacy/
+  </li>
+  </ul>
+  
+### Payments
+We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+<u>
+  <li>
+Google Play In-App Payments
+
+Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
+  </li></ul>
+  
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
